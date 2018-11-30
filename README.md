@@ -1,4 +1,4 @@
-# NaNoGenMo 2017
+# NaNoGenMo 2018
 
 My entries for this year's NaNoGenMo: https://github.com/NaNoGenMo/2018/issues/27.
 
